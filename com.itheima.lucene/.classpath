@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="src/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="src/lib/junit-4.9.jar" sourcepath="C:/Users/lxw/AppData/Local/Temp/.org.sf.feeling.decompiler1525849278226/source/junit-dep-4.9-sources.jar"/>
+	<classpathentry kind="lib" path="src/lib/lucene-analyzers-common-4.10.3.jar"/>
+	<classpathentry kind="lib" path="src/lib/lucene-core-4.10.3.jar"/>
+	<classpathentry kind="lib" path="src/lib/IKAnalyzer2012FF_u1.jar"/>
+	<classpathentry kind="lib" path="src/lib/lucene-queryparser-4.10.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
