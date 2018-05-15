@@ -1,5 +1,7 @@
 package com.itheima.lucene;
-
+/**
+ * 注解
+ */
 import java.io.File;
 
 import org.apache.commons.io.FileUtils;
